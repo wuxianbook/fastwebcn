@@ -1,6 +1,16 @@
 
 # 知乎推荐的科学上网VPN梯子，2022翻墙软件中国实测
 
+|  知乎梯子推荐榜   | 星级 | 官方地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=wuxianbook&data2=fastwebcn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/wuxianbook/fastwebcn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=wuxianbook&data2=fastwebcn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianbook&aff_click_id=fastwebcn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianbook&aff_sub2=fastwebcn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=wuxianbook&data1=fastwebcn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianbook&data1=fastwebcn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=wuxianbook&data1=fastwebcn) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=wuxianbook&data2=fastwebcn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=wuxianbook&data2=fastwebcn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=wuxianbook&data2=fastwebcn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=wuxianbook&data2=fastwebcn) | - | - |
+
+
 
 由于职业的关系，我经常需要在出差时使用科学上网VPN翻墙上外网，对VPN、SS(R)、V2ray、Trojan、Vmess等翻墙技术和方法还是比较关注的，也向不少读者推荐过一些好用的VPN。但是对于“翻墙”、“VPN”梯子等敏感的话题，由于国内的政策原因，知乎里面关于VPN推荐、翻墙软件等含有类似敏感词语的问题全部被屏蔽掉了。
 
